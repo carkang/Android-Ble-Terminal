@@ -1,0 +1,25 @@
+*.iml
+.gradle/
+local.properties
+**/build/
+.idea/
+*.apk
+*.aab
+*.jks
+*.keystore
+*.log
+# Local development helper scripts
+/make.py
+/fix.py
+/update_scan.py
+/scan_diagnose.py
+/fix_names.py
+/retain_names.py
+/redesign.py
+/connection_ui.py
+/compact_ui.py
+/send_sound.py
+/file_settings.py
+/settings_ui.py
+/settings_round.py
+/docs_readme.py
