@@ -98,3 +98,7 @@ OBDcomm.png                                   Original icon artwork
 ## Verification
 
 The debug build and Android lint passed. The app was installed and launched on a Samsung phone, where scanning discovered OBDplus, L3250 Series, and a Xiaomi humidifier. Communication reliability, firmware update protocols, and extended background reception require testing with the target hardware.
+
+## License
+
+OBDcomm is licensed under the [MIT License](LICENSE).

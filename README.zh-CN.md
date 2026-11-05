@@ -99,3 +99,7 @@ OBDcomm.png                                   原始图标
 ## 验证范围
 
 已通过 debug 构建与 Android lint，并在连接的三星手机上安装启动。扫描日志已发现 OBDplus、L3250 Series、小米加湿器等广播名称。收发稳定性、文件升级协议及长时间后台接收需要结合真实目标设备验证。
+
+## 许可证
+
+OBDcomm 采用 [MIT 许可证](LICENSE)。
